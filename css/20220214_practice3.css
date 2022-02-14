@@ -1,0 +1,12 @@
+.red {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+}
+.blue {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: wavy;
+    color: blue;
+}

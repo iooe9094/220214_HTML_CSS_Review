@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+p {
+    font-size: 50px;
+    color: blue;
+    text-decoration: wavy underline;
+}
+li {
+    list-style-type: square;
+    list-style-image: url(img/shine.png);
+}

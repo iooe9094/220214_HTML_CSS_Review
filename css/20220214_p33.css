@@ -1,0 +1,9 @@
+h3 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    /* border : solid 5px blue와 같음 */
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+}

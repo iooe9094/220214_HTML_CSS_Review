@@ -1,0 +1,14 @@
+h2 {
+    text-shadow: #FC0 1px 0 10px;
+    color: black;
+}
+p {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+span {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
